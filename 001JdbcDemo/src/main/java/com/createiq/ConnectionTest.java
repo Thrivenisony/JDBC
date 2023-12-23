@@ -1,4 +1,4 @@
-package com.createiq;
+-package com.createiq;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
